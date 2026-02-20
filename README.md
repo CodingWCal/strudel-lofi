@@ -4,7 +4,7 @@ A live coded lofi beat built in Strudel.
 
 Inspired by Nujabes, J Dilla boom bap swing, and neo soul harmony. Warm chords, dusty drums, moving bass, and subtle melodic layers designed for late night focus.
 
-All melodies and chord progressions were written from scratch. No samples for harmony, just original sounds and live coded arrangement. Feel free to remix this beat and let me know!
+All melodies and chord progressions were written from scratch. No samples for harmony, just original sounds and live coded arrangement. 
 
 --
 
@@ -33,3 +33,5 @@ Strudel REPL live coding in Javascript
 WebAudio synthesis
 
 OBS + Riverside for recording
+
+Feel free to remix this beat and have fun with it!
